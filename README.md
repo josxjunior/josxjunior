@@ -6,6 +6,6 @@ My plans are centered on continuous growth,developing projects,and solving probl
 
 TODO
 
-## Tools
+## Technologies
 
 TODO
