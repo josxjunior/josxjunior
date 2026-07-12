@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! 🤗
 
 I'm José Junior,a student of Computer Science in Brazil.
 
