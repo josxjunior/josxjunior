@@ -6,6 +6,6 @@ My plans are centered on continuous growth,developing projects,and solving probl
 
 My primary focus is backend developent,with technologies like Java and Spring Boot.
 
-## Technologies
+## Tools & Tech
 
 TODO
