@@ -12,3 +12,6 @@ My stack is backend development,with technologies like Java and Spring Boot.
 - Kotlin and SQL
 
 ## A Bit more about me
+
+- A real lover of CS
+- Always studying on free time
