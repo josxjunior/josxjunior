@@ -7,14 +7,14 @@ I am committed to continuous learning, developing software projects, and applyin
 
 My primary area of interest is backend development, with a focus on Java, Spring Boot, Kotlin, and SQL.
 
-Technologies
+## Technologies
 
 - Java
 - Spring Boot
 - Kotlin
 - SQL
 
-About Me
+## About Me
 
 - Dedicated to Computer Science and software development
 - Continuously improving my technical and problem-solving skills
