@@ -2,7 +2,7 @@
 
 I'm José Junior,a student of Computer Science in Brazil🇧🇷.
 
-My plans are centered on continuous growth,developing projects,and solving problems.
+I'm focused on continuous learning, building projects, and solving real-world problems.
 
 My stack is backend development,with technologies like Java and Spring Boot.
 
