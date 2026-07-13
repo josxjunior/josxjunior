@@ -8,4 +8,7 @@ My stack is backend development,with technologies like Java and Spring Boot.
 
 ## Tools & Tech💻
 
-TODO
+Item 1 - Java and Spring Boot
+Item 2 - Kotlin and SQL
+
+## A Bit more about me
