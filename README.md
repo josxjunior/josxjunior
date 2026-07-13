@@ -9,8 +9,8 @@ My primary area of interest is backend development, with a focus on Java, Spring
 
 ## Technologies
 
-- Java
-- Spring Boot
+- Java☕
+- Spring Boot🍃
 - Kotlin
 - SQL
 
