@@ -1,7 +1,7 @@
 
-Hello, and welcome to my profile.
+## Hey 🙌
 
-I am José Junior, a Computer Science student based in Brazil.
+I am José Junior, a Computer Science student based in Brazil🇧🇷.
 
 I am committed to continuous learning, developing software projects, and applying technology to solve real-world problems.
 
