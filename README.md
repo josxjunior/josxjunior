@@ -6,6 +6,6 @@ My plans are centered on continuous growth,developing projects,and solving probl
 
 My stack is backend development,with technologies like Java and Spring Boot.
 
-## Tools & Tech
+## Tools & Tech💻
 
 TODO
