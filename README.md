@@ -4,7 +4,7 @@ I'm José Junior,a student of Computer Science in Brazil🇧🇷.
 
 I'm focused on continuous learning, building projects, and solving real-world problems.
 
-My stack is backend development,with technologies like Java and Spring Boot.
+I'm passionate about backend development, specializing in Java, Spring Boot, Kotlin, and SQL.
 
 ## Tools & Tech💻
 
