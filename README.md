@@ -1,17 +1,21 @@
-## Hey there! 🙌
 
-I'm José Junior,a student of Computer Science in Brazil🇧🇷.
+Hello, and welcome to my profile.
 
-I'm focused on continuous learning, building projects, and solving real-world problems.
+I am José Junior, a Computer Science student based in Brazil.
 
-I'm passionate about backend development, specializing in Java, Spring Boot, Kotlin, and SQL.
+I am committed to continuous learning, developing software projects, and applying technology to solve real-world problems.
 
-## Tools & Tech💻
+My primary area of interest is backend development, with a focus on Java, Spring Boot, Kotlin, and SQL.
 
-- Java and Spring Boot
-- Kotlin and SQL
+Technologies
 
-## A Bit more about me
+- Java
+- Spring Boot
+- Kotlin
+- SQL
 
-- A real lover of CS
-- Always studying on free time
+About Me
+
+- Dedicated to Computer Science and software development
+- Continuously improving my technical and problem-solving skills
+- Always studying and expanding my knowledge in my free time
