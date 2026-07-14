@@ -3,7 +3,7 @@
 
 I am José Junior, a Computer Science student based in Brazil🇧🇷.
 
-I am committed to continuous learning, developing software projects, and applying technology to solve __real-world problems__.
+I love learning, developing software projects, and applying technology to solve __real-world problems__.
 
 My primary area of interest is __backend__ development, with a focus on __Java__, __Spring Boot,__ __Kotlin__, and __SQL__.
 
