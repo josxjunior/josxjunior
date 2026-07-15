@@ -13,6 +13,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
+  (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   <a href="https://github.com/herbertcarnaubadesouza">
   </a>
   <a href="https://instagram.com/oreidosites">
