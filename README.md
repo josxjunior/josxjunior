@@ -16,7 +16,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/herbertcarnaubadesouza">
     <img src="https://img.shields.io/badge/GitHub-JOSXJUNIOR-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
+  <a href="https://www.linkedin.com/in/josejuunior/">
     <img src="https://img.shields.io/badge/LinkedIn-JOSÉ JUNIOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
