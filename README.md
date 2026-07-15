@@ -17,7 +17,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/GitHub-JOSXJUNIOR-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-JOSÉ JUNIOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   </a>
 </p>
 
