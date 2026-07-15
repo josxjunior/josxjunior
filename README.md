@@ -2,7 +2,7 @@
 ## Hi 🙌,I'm José Junior
 
 💻  **Aspirant Software Developer | 
- Java & Spring Boot**
+ Java & Spring Boot Developer**
  🇧🇷 Brazil
 
 I build softwares T
