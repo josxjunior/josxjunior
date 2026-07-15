@@ -1,5 +1,7 @@
 
-## Hey 🙌
+## Hi 🙌,I'm José Junior
+ **Aspirant Software Developer | Java & Spring Boot**
+ 🇧🇷 Brazil
 
 I am José Junior, a Computer Science student based in Brazil🇧🇷.
 
