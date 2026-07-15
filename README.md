@@ -13,8 +13,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
