@@ -20,7 +20,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/LinkedIn-JOSÉ JUNIOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/josejuunior/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/website-PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
