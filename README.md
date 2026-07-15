@@ -54,7 +54,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🚀 About me
 
 > _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> It's about building solutions that generate real value."_
 
 ---
 
