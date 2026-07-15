@@ -1,15 +1,14 @@
 
 ## Hi 🙌,I'm José Junior
  
- **Aspirant Software Developer | Java & Spring Boot**
- 
+ **Aspirant Software Developer | 
+ Java & Spring Boot**
  🇧🇷 Brazil
 
-I am José Junior, a Computer Science student based in Brazil🇧🇷.
+I build softwares T
+I'm deeply focused on architecture,performance, clean code, and real-world problems solutions
 
-I love learning, developing software projects, and applying technology to solve __real-world problems__.
 
-My primary area of interest is __backend__ development, with a focus on __Java__, __Spring Boot,__ __Kotlin__, and __SQL__.
 
 ## Technologies
 
