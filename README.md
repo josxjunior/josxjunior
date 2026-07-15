@@ -7,6 +7,7 @@
  🇧🇷 Brazil
 
 I build softwares T
+
 I'm deeply focused on architecture,performance, clean code, and real-world problems solutions
 
 
