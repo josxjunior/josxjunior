@@ -1,6 +1,6 @@
 # Hi 👋, I'm José Junior
 
-🚀 **Aspirant Software Developer | Java & Spring Boot Developer**  
+🚀 **Software Developer | Java & Spring Boot Developer**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
