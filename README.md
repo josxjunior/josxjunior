@@ -6,7 +6,7 @@
 I build **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and real-world problems solutions**.
 
-I also use Java,Spring Boot and PostgreSQL to build projects.
+I also use **Java**,**Spring Boot** and **PostgreSQL** to build **projects**.
 
 ---
 
