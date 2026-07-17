@@ -3,10 +3,10 @@
 🚀 **Software Developer | Java & Spring Boot Developer**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I build **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and real-world problems solutions**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I also use Java,Spring Boot and PostgreSQL to build projects.
 
 ---
 
