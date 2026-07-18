@@ -3,10 +3,10 @@
 🚀 **Software Developer | Java & Spring Boot Developer**  
 🇧🇷 Brazil
 
-I build **real-utility softwares**.  
-I’m deeply focused on **architecture, performance, clean code, and real-world problems solutions**.
+I build software that solves **real-world problems**.
+My focus is on **software architecture**, **performance**, **maintainable code**, and **practical solutions**.
 
-I also use **Java**,**Spring Boot** and **PostgreSQL** to build **projects**.
+I primarily work with **Java**, **Spring Boot**, and **PostgreSQL**, building projects that emphasize reliability, scalability, and clean design.
 
 ---
 
