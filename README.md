@@ -50,6 +50,16 @@ I primarily work with **Java**, **Spring Boot**, and **PostgreSQL**, building pr
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+---
+
+## ?? GitHub Stats
+
+<p align="left">  
+  <img height="170" src="https://github-readme-stats.vercel.app/api? username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" /> 
+  <img height="170" src="https://github-readme-stats.vercl.app/apitop-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🚀 Philosophy
