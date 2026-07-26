@@ -22,9 +22,6 @@ I primarily work with **Java**, **Spring Boot**, and **PostgreSQL**, building pr
   <a href="josxjunior.github.io">
     <img src="https://img.shields.io/badge/website-PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:joseantoniojunior08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
