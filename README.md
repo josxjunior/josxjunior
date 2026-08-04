@@ -26,16 +26,6 @@ I primarily work with **Java**, **Spring Boot**, and **PostgreSQL**, building pr
 
 ---
 
-## 🧠 What I do
-
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
