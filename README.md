@@ -16,6 +16,18 @@ Backend Software Engineer with nearly 2 years of experience building mission-cri
 
 ---
 
+## 🚀 Featured Projects
+
+### 💸 [The Money Savior](https://github.com/AmrmDev/money-savior-telegram-bot)
+
+My main personal project: a serverless, cloud-native expense management system on AWS.
+
+### 🔄 [paf-pix-qrcode-generation](https://github.com/AmrmDev/paf-pix-qrcode-generation)
+
+A PIX payment gateway, inspired by the real-world payment flows I work with daily.
+
+---
+
 ## 🧰 Languages and Tools
 
 <p align="left">
@@ -42,16 +54,6 @@ Backend Software Engineer with nearly 2 years of experience building mission-cri
 - **Cloud & Infrastructure:** AWS (ECS, EKS, Lambda, API Gateway, DynamoDB), Kubernetes, Docker, Terraform, Linux
 - **Messaging & Data:** Kafka, SQL, NoSQL
 - **Architecture & Practices:** Distributed Systems, System Design, Clean Architecture, SOLID, Observability, Asynchronous Processing, Agile/Scrum
-
----
-
-## 📌 More Projects
-
-| Project | Stack |
-| --- | --- |
-| [springboot-desafio-itau-junior](https://github.com/AmrmDev/springboot-desafio-itau-junior) | Java · Spring Boot |
-| [docker-go-example-pipe](https://github.com/AmrmDev/docker-go-example-pipe) | Go · Docker |
-| [latency-tester](https://github.com/AmrmDev/latency-tester) | Go |
 
 ---
 
