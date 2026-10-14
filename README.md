@@ -1,4 +1,4 @@
-# José Jũnior
+# José Júnior
 
 `Backend Software Developer`
 
