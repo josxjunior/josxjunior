@@ -1,8 +1,8 @@
-# José Júnior
+# José Jũnior
 
 `Backend Software Developer`
 
- Backend Software Engineer with nearly 2 years of experience building mission-critical payment systems at Rede (Itaú Unibanco), focused on PIX and high-stakes payment flows. I work on large-scale systems     handling 1M+ requests per day, designing highly available REST APIs with an emphasis on performance, reliability, and observability. I have delivered measurable latency improvements in production,           including a 20% reduction in transaction latency (1s → 800ms) and an API brought from 1.2s down to 200ms, and I have built infrastructure to withstand peak events like Black Friday and heavy concurrent      traffic. Skilled in Java, Go, and Python, with cloud-native architectures on AWS (ECS, EKS, Lambda, API Gateway, DynamoDB), Kubernetes, and Terraform. I care not only about how to build a system, but about  why a given architecture fits the problem.
+Backend Software Engineer with nearly 2 years of experience building mission-critical payment systems at Rede (Itaú Unibanco), focused on PIX and high-stakes payment flows. I work on large-scale systems handling 1M+ requests per day, designing highly available REST APIs with an emphasis on performance, reliability, and observability. I have delivered measurable latency improvements in production, including a 20% reduction in transaction latency (1s → 800ms) and an API brought from 1.2s down to 200ms, and I have built infrastructure to withstand peak events like Black Friday and heavy concurrent traffic. Skilled in Java, Go, and Python, with cloud-native architectures on AWS (ECS, EKS, Lambda, API Gateway, DynamoDB), Kubernetes, and Terraform. I care not only about how to build a system, but about why a given architecture fits the problem.
 
 ---
 
